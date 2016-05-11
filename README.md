@@ -1,3 +1,5 @@
+Edited Subcommands to be prefixed with /-{command} rather than /{command} to stop conflicts
+
 VoxelSniper [![Build Status](https://travis-ci.org/TVPT/VoxelSniper.svg?branch=master)](https://travis-ci.org/TVPT/VoxelSniper)
 ===============
 
